@@ -2,7 +2,7 @@ let modInfo = {
 	name: "The Spatial Tree",
 	id: "davisboro",
 	author: "akashg23",
-	pointsName: "points",
+	pointsName: "Planck volumes in the universe",
 	modFiles: ["layers.js", "tree.js"],
 
 	discordName: "",
